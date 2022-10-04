@@ -1,0 +1,15 @@
+G:\GeekBrains\1_Учебный процесс\1 четверть\8_Знакомство с языками программирования (семинары)\seminar8\task12\obj\Debug\net6.0\task12.csproj.AssemblyReference.cache
+G:\GeekBrains\1_Учебный процесс\1 четверть\8_Знакомство с языками программирования (семинары)\seminar8\task12\obj\Debug\net6.0\task12.GeneratedMSBuildEditorConfig.editorconfig
+G:\GeekBrains\1_Учебный процесс\1 четверть\8_Знакомство с языками программирования (семинары)\seminar8\task12\obj\Debug\net6.0\task12.AssemblyInfoInputs.cache
+G:\GeekBrains\1_Учебный процесс\1 четверть\8_Знакомство с языками программирования (семинары)\seminar8\task12\obj\Debug\net6.0\task12.AssemblyInfo.cs
+G:\GeekBrains\1_Учебный процесс\1 четверть\8_Знакомство с языками программирования (семинары)\seminar8\task12\obj\Debug\net6.0\task12.csproj.CoreCompileInputs.cache
+G:\GeekBrains\1_Учебный процесс\1 четверть\8_Знакомство с языками программирования (семинары)\seminar8\task12\bin\Debug\net6.0\task12.exe
+G:\GeekBrains\1_Учебный процесс\1 четверть\8_Знакомство с языками программирования (семинары)\seminar8\task12\bin\Debug\net6.0\task12.deps.json
+G:\GeekBrains\1_Учебный процесс\1 четверть\8_Знакомство с языками программирования (семинары)\seminar8\task12\bin\Debug\net6.0\task12.runtimeconfig.json
+G:\GeekBrains\1_Учебный процесс\1 четверть\8_Знакомство с языками программирования (семинары)\seminar8\task12\bin\Debug\net6.0\task12.dll
+G:\GeekBrains\1_Учебный процесс\1 четверть\8_Знакомство с языками программирования (семинары)\seminar8\task12\bin\Debug\net6.0\task12.pdb
+G:\GeekBrains\1_Учебный процесс\1 четверть\8_Знакомство с языками программирования (семинары)\seminar8\task12\obj\Debug\net6.0\task12.dll
+G:\GeekBrains\1_Учебный процесс\1 четверть\8_Знакомство с языками программирования (семинары)\seminar8\task12\obj\Debug\net6.0\refint\task12.dll
+G:\GeekBrains\1_Учебный процесс\1 четверть\8_Знакомство с языками программирования (семинары)\seminar8\task12\obj\Debug\net6.0\task12.pdb
+G:\GeekBrains\1_Учебный процесс\1 четверть\8_Знакомство с языками программирования (семинары)\seminar8\task12\obj\Debug\net6.0\task12.genruntimeconfig.cache
+G:\GeekBrains\1_Учебный процесс\1 четверть\8_Знакомство с языками программирования (семинары)\seminar8\task12\obj\Debug\net6.0\ref\task12.dll

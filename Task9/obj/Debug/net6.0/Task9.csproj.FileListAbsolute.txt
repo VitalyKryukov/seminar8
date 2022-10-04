@@ -1,0 +1,15 @@
+G:\GeekBrains\1_Учебный процесс\1 четверть\8_Знакомство с языками программирования (семинары)\seminar8\Task9\bin\Debug\net6.0\Task9.exe
+G:\GeekBrains\1_Учебный процесс\1 четверть\8_Знакомство с языками программирования (семинары)\seminar8\Task9\bin\Debug\net6.0\Task9.deps.json
+G:\GeekBrains\1_Учебный процесс\1 четверть\8_Знакомство с языками программирования (семинары)\seminar8\Task9\bin\Debug\net6.0\Task9.runtimeconfig.json
+G:\GeekBrains\1_Учебный процесс\1 четверть\8_Знакомство с языками программирования (семинары)\seminar8\Task9\bin\Debug\net6.0\Task9.dll
+G:\GeekBrains\1_Учебный процесс\1 четверть\8_Знакомство с языками программирования (семинары)\seminar8\Task9\bin\Debug\net6.0\Task9.pdb
+G:\GeekBrains\1_Учебный процесс\1 четверть\8_Знакомство с языками программирования (семинары)\seminar8\Task9\obj\Debug\net6.0\Task9.csproj.AssemblyReference.cache
+G:\GeekBrains\1_Учебный процесс\1 четверть\8_Знакомство с языками программирования (семинары)\seminar8\Task9\obj\Debug\net6.0\Task9.GeneratedMSBuildEditorConfig.editorconfig
+G:\GeekBrains\1_Учебный процесс\1 четверть\8_Знакомство с языками программирования (семинары)\seminar8\Task9\obj\Debug\net6.0\Task9.AssemblyInfoInputs.cache
+G:\GeekBrains\1_Учебный процесс\1 четверть\8_Знакомство с языками программирования (семинары)\seminar8\Task9\obj\Debug\net6.0\Task9.AssemblyInfo.cs
+G:\GeekBrains\1_Учебный процесс\1 четверть\8_Знакомство с языками программирования (семинары)\seminar8\Task9\obj\Debug\net6.0\Task9.csproj.CoreCompileInputs.cache
+G:\GeekBrains\1_Учебный процесс\1 четверть\8_Знакомство с языками программирования (семинары)\seminar8\Task9\obj\Debug\net6.0\Task9.dll
+G:\GeekBrains\1_Учебный процесс\1 четверть\8_Знакомство с языками программирования (семинары)\seminar8\Task9\obj\Debug\net6.0\refint\Task9.dll
+G:\GeekBrains\1_Учебный процесс\1 четверть\8_Знакомство с языками программирования (семинары)\seminar8\Task9\obj\Debug\net6.0\Task9.pdb
+G:\GeekBrains\1_Учебный процесс\1 четверть\8_Знакомство с языками программирования (семинары)\seminar8\Task9\obj\Debug\net6.0\Task9.genruntimeconfig.cache
+G:\GeekBrains\1_Учебный процесс\1 четверть\8_Знакомство с языками программирования (семинары)\seminar8\Task9\obj\Debug\net6.0\ref\Task9.dll
