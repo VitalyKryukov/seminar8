@@ -15,5 +15,5 @@ int y1 = int.Parse(Console.ReadLine()!);
 Console.WriteLine("Введите координаты y2: ");
 int y2 = int.Parse(Console.ReadLine()!);
 
-double Distance = Math.Round(Math.Sqrt(Math.Pow((x2-x1),2)+Math.Pow((y2-y1),2)),2);
+double Distance = Math.Round(Math.Sqrt(Math.Pow((x2-x1),2)+Math.Pow((y2-y1),2)),2);// <Math.Round(a,2)> - округление после запятой
 Console.WriteLine($"Расстояние от точки A до точки B равно {Distance}");
